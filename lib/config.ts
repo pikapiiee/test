@@ -219,3 +219,5 @@ function invertPageUrlOverrides(
     }
   }, {})
 }
+
+npm install
